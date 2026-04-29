@@ -12,7 +12,11 @@ I am a Computer Science Engineering student passionate about Data Science, Machi
 * [Data Science for Engineering - NPTEL](https://storage.googleapis.com/2026-mar-halltickets/certificate-generation-mar26/final/regular/noc26-cs65/NOC26CS65S36130016203170575.pdf)
 
 ### 🚀 Current Projects
-* **[Placement Predictor](https://github.com/Sammanita06/Student-Placement-Analysis-2026):** A Machine Learning project designed to analyse student placement outcomes. 
+* **[Placement Predictor](https://github.com/Sammanita06/Student-Placement-Analysis-2026):** A Machine Learning project designed to analyse student placement outcomes.
+
+### 🧠 LeetCode Stats
+![LeetCode Stats](### 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sammanita?theme=dark&font=avenir&ext=contest))
 
 ### 📈 GitHub Stats
 ![Sammanita06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammanita06&show_icons=true&theme=radical)
