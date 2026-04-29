@@ -15,7 +15,6 @@ I am a Computer Science Engineering student passionate about Data Science, Machi
 * **[Placement Predictor](https://github.com/Sammanita06/Student-Placement-Analysis-2026):** A Machine Learning project designed to analyse student placement outcomes.
 
 ### 🧠 LeetCode Stats
-![LeetCode Stats](### 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sammanita?theme=dark&font=avenir&ext=contest))
 
 ### 📈 GitHub Stats
