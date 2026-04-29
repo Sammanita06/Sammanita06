@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Sammanita06/Sammanita06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student passionate about Data Science, Machine Learning, and building efficient algorithms. I am actively preparing for software development and data science roles.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** Python, R, C++
+* **Data Science:** Pandas, NumPy, Scikit-Learn, JupyterLab, Spyder
+* **Tools:** Git, VS Code, RStudio, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📜 Certifications
+* [Python for Data Science - NPTEL](https://storage.googleapis.com/2026-mar-halltickets/certificate-generation-mar26/final/regular/noc26-cs80/NOC26CS80S46130036503170575.pdf)
+* [Data Science for Engineering - NPTEL](https://storage.googleapis.com/2026-mar-halltickets/certificate-generation-mar26/final/regular/noc26-cs65/NOC26CS65S36130016203170575.pdf)
+
+### 🚀 Current Projects
+* **[Placement Predictor](https://github.com/Sammanita06/Student-Placement-Analysis-2026):** A Machine Learning project designed to analyse student placement outcomes. 
+
+### 📈 GitHub Stats
+![Sammanita06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammanita06&show_icons=true&theme=radical)
